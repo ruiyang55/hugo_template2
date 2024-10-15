@@ -26,6 +26,6 @@ main:
     url: teaching/
     weight: 40
 
-  - name: test
-    url: test/
+  - name: Teaching
+    url: Teaching/
     weight: 40
